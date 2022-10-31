@@ -18,4 +18,4 @@ function ask() {
 otherClass();
 ask();
 
-console.log(IMP_VAR);
+// console.log(IMP_VAR); // Here You get a Type Ref Error
